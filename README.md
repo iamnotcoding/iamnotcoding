@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... c, c++
 - 💞️ I’m looking to collaborate on ... nobody
-- 📫 How to reach me ... shw42909@gmail.com
+- 📫 How to reach me ...
 
 <!---
 iamnotcoding/iamnotcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
